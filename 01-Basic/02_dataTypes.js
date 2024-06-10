@@ -33,6 +33,11 @@
 // console.log(typeof(a));
 
 
+// Conversion
+
+
+
+
 
 
 // Data Type Conversion
@@ -41,8 +46,33 @@
 let score = 23;
 console.log(typeof(score));
 
+// Data Types in Conversion in Number
 
 let valueInNumber = Number(score)
 console.log(typeof(valueInNumber));
+
+// Data Types conversion in String
+let valueInString = String(score)
+console.log(typeof(valueInString));
+
+// number string convert in int
+// number string with alphabet gives NaN
+// bool convert into 0 and 1
+// null convert into 0
+// undefined convert into  NaN
+
+
+
+// boolean conversionn
+
+
+
+//let isLoggesIn =   1
+//let booleanIsLoggedIn = Boolean(isLoggesIn)
+//console.log(booleanIsLoggedIn)
+//console.log(typeof booleanIsLoggedIn)
+
+
+
 
 
