@@ -1,8 +1,8 @@
-const accountId = 123333;
-let accountEmail= "abdulqadeer0120@gmail.com"
-var accountPassword = "123456"
-accountCity = "Leeds";
-let accountState;
+//const accountId = 123333;
+//let accountEmail= "abdulqadeer0120@gmail.com"
+//var accountPassword = "123456"
+//accountCity = "Leeds";
+// let accountState;
 // const never changes
 // accountId = "Multan";
 

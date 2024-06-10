@@ -75,4 +75,17 @@ console.log(typeof(valueInString));
 
 
 
+// ****************************** Operations  ******************************
 
+// +, - , *, /, **, %,
+
+//let value = 3;
+//let nagValue = -value;
+//console.log(nagValue);
+
+
+let firstName = "Abdul ";
+
+let lastName = "Qadeer";
+// 
+console.log(firstName+lastName);
