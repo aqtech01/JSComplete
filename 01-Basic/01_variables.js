@@ -21,4 +21,8 @@ because of issue in block or functional scope
 // console.log(accountCity);
 
 
+// let num1, num2, num3 ;
+
+
+
 
