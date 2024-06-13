@@ -14,5 +14,5 @@
 //  let myTimeStamp = Date.now()
 //  console.log(Math.floor(myTimeStamp/1000));
 
-let newDate = new Date();
-console.log(newDate.getDate());
+// let newDate = new Date();
+// console.log(newDate.getDate());
