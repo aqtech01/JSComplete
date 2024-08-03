@@ -16,8 +16,8 @@ let heros = ["Captian America", "Iron Man", "Thor", "Wanda", "Natasha"];
 // });
 
 // console.log(marvelHeros);
-let newArr = [];
-let marvelHeros = heros.reduce((curr, hero) => {
-  return newArr.push(curr, hero);
-});
-console.log(marvelHeros);
+// let newArr = [];
+// let marvelHeros = heros.reduce((curr, hero) => {
+//   return newArr.push(curr hero);
+// });
+// console.log(marvelHeros);

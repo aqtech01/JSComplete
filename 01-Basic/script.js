@@ -19,5 +19,5 @@
 // console.log(Math.round(-5.05));
 // console.log(Math.round(5.05));
 
-console.log("This is AQTECH!");
-console.log("This is Sparta!");
+// console.log("This is AQTECH!");
+// console.log("This is Sparta!");
