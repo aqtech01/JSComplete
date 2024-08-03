@@ -59,10 +59,10 @@ function myFunction() {
 // });
 // console.log(newArra);
 
-let arr = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+// let arr = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 
-const output = arr.reduce((previous, curr) => {
-  return previous > curr ? previous : curr;
-});
+// const output = arr.reduce((previous, curr) => {
+//   return previous > curr ? previous : curr;
+// });
 
-console.log(output);
+// console.log(output);
