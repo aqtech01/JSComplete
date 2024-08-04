@@ -21,9 +21,11 @@ btn.forEach((box, index) => {
   box.addEventListener("click", () => {
     if (turnO) {
       box.innerText = "O";
+      box.classList.add("o-player");
       turnO = false;
     } else {
       box.innerText = "X";
+      box.classList.add("x-player");
       turnO = true;
     }
     box.disabled = true;

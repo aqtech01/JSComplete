@@ -32,6 +32,7 @@ body {
   box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
   font-size: 8vmin;
   color: #b0413e;
+  background-color: wheat;
 }
 #reset {
   padding: 1rem;
@@ -51,4 +52,12 @@ body {
   border: none;
   margin-top: 20px;
   margin-bottom: 20px;
+}
+.o-player {
+  color: blue; /* Change to your preferred color */
+}
+
+/* Style for X player */
+.x-player {
+  color: red; /* Change to your preferred color */
 }
